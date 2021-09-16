@@ -1,0 +1,4 @@
+Django==3.1.8
+virtualenv==16.4.3
+djangorestframework==3.12.4
+requests==2.26.0
